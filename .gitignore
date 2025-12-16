@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+.venv/
+venv/
+
+# Secrets / OAuth
+credentials/
+*.json
+token.json
+
+# Local DB / artifacts
+*.db
+*.sqlite
+*.sqlite3
+
+# Data files (avoid committing datasets)
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
