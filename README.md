@@ -1,6 +1,7 @@
-Customer Retention AI Agent (Demo Version)
+# Customer Retention AI Agent
 
 This repository contains a Customer Retention AI Agent designed to help sales teams identify high-risk customers, understand why they are at risk, and proactively generate renewal outreach using AI — with full human approval.
+This system was designed with production deployment constraints in mind — human-in-the-loop approval, no automatic data export, memory layer for tone learning, and full audit trail.
 
 What this system does
 
